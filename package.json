@@ -11,6 +11,11 @@
   "bugs": {
     "url": "https://github.com/btxhuman/locision-serverless-plugin-api-gateway/issues"
   },
+  "keywords": [
+    "serverless plugin",
+    "serverless",
+    "api gateway"
+  ],
   "homepage": "https://github.com/btxhuman/locision-serverless-plugin-api-gateway#readme",
   "dependencies": {
     "class.extend": "0.9.2",
