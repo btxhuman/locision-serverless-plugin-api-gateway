@@ -1,0 +1,19 @@
+{
+  "name": "serverless-plugin-api-gateway",
+  "version": "0.1.0",
+  "main": "index.js",
+  "author": "Gilbert Zhong",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/silvermine/serverless-plugin-write-env-vars.git"
+  },
+  "bugs": {
+    "url": "https://github.com/silvermine/serverless-plugin-write-env-vars/issues"
+  },
+  "homepage": "https://github.com/silvermine/serverless-plugin-write-env-vars#readme",
+  "dependencies": {
+    "class.extend": "0.9.2",
+    "underscore": "1.8.3"
+  }
+}
