@@ -1,6 +1,7 @@
 {
   "name": "locision-serverless-plugin-api-gateway",
   "version": "0.1.0",
+  "description": "serverless plugin",
   "main": "index.js",
   "author": "Gilbert Zhong",
   "license": "MIT",
